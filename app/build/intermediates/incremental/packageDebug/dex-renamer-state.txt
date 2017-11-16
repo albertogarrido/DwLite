@@ -1,7 +1,0 @@
-#Thu Nov 16 14:20:05 CET 2017
-base.0=/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e4d632a05022cb7297374e67fc0ce109c6c872b
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efa9b59a09d1daa386efafec977323c327c88942/classes.dex
-base.1=/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efa9b59a09d1daa386efafec977323c327c88942
-file.0=/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e4d632a05022cb7297374e67fc0ce109c6c872b/classes.dex
