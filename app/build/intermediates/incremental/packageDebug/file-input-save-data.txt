@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Nov 16 13:46:46 CET 2017
+#Thu Nov 16 14:20:05 CET 2017
 210.set=JAVA_RESOURCE
 282.file=/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/resources-debug.ap_/res/drawable/navigation_empty_icon.xml
 14.set=ANDROID_RESOURCE

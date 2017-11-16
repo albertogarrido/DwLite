@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:4:5-45
 		INJECTED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml
@@ -24,7 +24,7 @@ ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgramming
 	android:name
 		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:7:22-76
 application
-ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:9:5-25:19
+ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:9:5-31:19
 MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/Alberto/.android/build-cache/e3bdaaac112f02fef1896faa51d46532d03289c2/output/AndroidManifest.xml:24:5-30:19
 	android:label
 		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:13:9-41
@@ -39,27 +39,33 @@ MERGED from [android.arch.lifecycle:extensions:1.0.0] /Users/Alberto/.android/bu
 	android:name
 		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:10:9-47
 activity#net.albertogarrido.dawandalite.ui.categories.CategoriesActivity
-ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:16:9-22:20
+ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:theme
+		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:18:13-44
 	android:name
-		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:16:19-67
+		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:17:13-61
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:22:27-74
 activity#net.albertogarrido.dawandalite.ui.products.list.ProductsListActivity
-ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:23:9-75
+ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:25:9-27:47
+	android:theme
+		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:23:19-72
+		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:26:13-66
 activity#net.albertogarrido.dawandalite.ui.products.detail.ProductDetailActivity
-ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:24:9-78
+ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:28:9-30:47
+	android:theme
+		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:30:13-44
 	android:name
-		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:24:19-75
+		ADDED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml:29:13-69
 uses-sdk
 INJECTED from /Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:27.0.1] /Users/Alberto/.android/build-cache/c9e7ced66b4db8d2b483c03e1ecf0594d8086eee/output/AndroidManifest.xml:20:5-44

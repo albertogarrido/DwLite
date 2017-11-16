@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="4fc07bcf83f353f4b7e51807b64a4b0eb0b84344">
+        sha1="d2b422f02133ef3c8ae1d697993faec6cb6d7a2a">
         <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e4d632a05022cb7297374e67fc0ce109c6c872b/classes.dex" />
     </item>
     <item
