@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/Alberto/.android/build-cache/c9e7ced66b4db8d2b483c03e1ecf0594d8086eee/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/Alberto/.android/build-cache/d60677e949f0f3b9ae3aeec42cdbd67f7601c601/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/Alberto/.android/build-cache/c9e7ced66b4db8d2b483c03e1ecf0594d8086eee/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Alberto/.android/build-cache/c9e7ced66b4db8d2b483c03e1ecf0594d8086eee/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/Alberto/.android/build-cache/d60677e949f0f3b9ae3aeec42cdbd67f7601c601/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Alberto/.android/build-cache/c9e7ced66b4db8d2b483c03e1ecf0594d8086eee/output/res/anim/design_bottom_sheet_slide_out.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_warning_black_48dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_warning_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_error_outline_black_48dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_error_outline_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_refresh_white_24dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_refresh_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_airport_shuttle_white_24dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_airport_shuttle_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_cloud_off_black_48dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_cloud_off_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_airport_shuttle_white_18dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_airport_shuttle_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_new_releases_white_24dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_new_releases_white_24dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_search_black_48dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_search_black_48dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_shopping_basket_white_18dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_shopping_basket_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_new_releases_white_18dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_new_releases_white_18dp.png"
+    },
+    {
+        "merged": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_shopping_basket_white_24dp.png",
+        "source": "/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/src/main/res/drawable-xhdpi/ic_shopping_basket_white_24dp.png"
+    }
+]

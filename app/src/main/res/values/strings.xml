@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DaWandaLite</string>
+    <string name="error_network">There is no internet connection available.</string>
+    <string name="error_server">Oooops, our server is a bit confused at the moment, please try again.</string>
+    <string name="error_not_found">Oooops, that item could not be found.</string>
+    <string name="error_unknown">Something really weird just happened, please try again.</string>
+    <string name="error_retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    <string name="categories">Categories</string>
+    <string name="loading">Loading %1$s</string>
+    <string name="products">Products</string>
+    <string name="product_detail">Product Detail</string>
+</resources>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/0424733c56aa8a5bf2fa4c8595477ddfdb3325f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6db956f55089a8d067d7cab3f65aa2aba8b6396d">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94db95c20588126b5c20d3849757580c5bc05fcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/04a9c4fc7b6926a2af25c0949845f73e6d468cc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2eecdc4b5ea7e1624d867cac8dff7a9d2dde7b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/aaf64b22c951b2d844001c381ca46e2e20517fe0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f10fed27d6d0b4aae675f17b33c639b4d5a0ed93">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57269106f2816b282a50f5c5f60d9beea80f9792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/e57f435fe31123a006aca6d6b9aea498c7b06135/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71975c7ac92c47cf492034790d06e59bddba3a38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/521695d257289b4d4008c376164868899689eb36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d928394035bd4f7d2ee9e1c63d45f9ec088e21a4">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24df7a82d06e95c59f266c2a2c36a183c70bbf67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/5399b5b317674e3e4ea73e8f7c0b422d953cb11c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac5e6ae168ef77f0b0b1e3245d7afd7d32f710c3">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98d8e5b74fc2a5a529a94a83c8c8f08de5d2a533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/e5898521a9a88371acda4186d4b38b8e10488160/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69f7591c9ff9238ff226e264c0260bb9f1ce0029">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79ef613911548d2798ecce52f6a1537ea76f5125/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_f0dfa144377fc40376c07364f081603f782900de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.1_d8101358f97e69e14a879edad4583c463dcbf259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4fc07bcf83f353f4b7e51807b64a4b0eb0b84344">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4e4d632a05022cb7297374e67fc0ce109c6c872b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/34ace90fddd3efabf2540e6e936494590eb6e750/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dc703c35f594398c269b79b0178c86744add9494">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6f8a94b5028854c007a78c9db6cc7b6b0e8d456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_d0ae4a653add6be8a791b23bd15829f353f626f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_e29dd25779704aef13f7e06620600607644eba76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efa9b59a09d1daa386efafec977323c327c88942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.1_9b7133b1fc97a05fce55e41d98d7d971eae6d29c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_eb6b1e57a450ecf252a553cbea8c52d9a24da7e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_0cc002b0d4dc8fb6c11900414104746f96f65ab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.3_f349859afebbc23762c965473e2ee73429abfbfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_a558f9abae6c0785e40822ab4494c847f426d9ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/b9b9a667207db18510a89f4f37b2100ef54975e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="59cbbfb2937ebed98c8bb8882b7112d16358014e">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91c849735a58da9a92d4b4e981a8b1011b01bfb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/aa464d72777e7a56f3ad1fe0720219783d44759f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="925879273e627f34059466359ba6789cf61889e2">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b509fecbb1cab6236bd33a26c1357d78999a0fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/e78f83254baebc1407c8343174d213d2d4a964c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7acfe82f9818960690816133001218c52e840175">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e69b29fa9030806891234a6fac237b445576c82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/c9e7ced66b4db8d2b483c03e1ecf0594d8086eee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f25b1adab1e4b4f5cecb9dc6f19798afabcb177b">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19e18fb79fdae08cb3ec3d3f32f04ea9753c6e3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.8.1/feab46062803513d6a8307c74b0084265855de1a/logging-interceptor-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.8.1_1ef659c08cb1e5af031c3cd8658428fc4f13b92d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/be626ea32621f730f97d8c26bb45d96006025d6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4f9ace23785adf79a174d569bde261f032e1190">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f905e90aea93014361c185e1362066298518b184/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/e3bdaaac112f02fef1896faa51d46532d03289c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c96ff1484cdde9a52af9f23f9e0d1de70dd5076">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_814e97a2c970a0f86ee14f3744d6cb023016c002/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/7196bcc2799148c68a3fb8ee11a465be090632e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cbbd26dd2f6d46181b41a5f6f5e34889442a811b">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6df8ac2f9f0252c5af70b4b2fff6bfc6b5bd04b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/8a67c2cd437b7f3102cd4d50b8d57277c9b6742e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f9964fe7c31317a75ba72685f6f0be8f71e09aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.1/287742f1c6cea6d9126670e9f031890b0462362a/support-annotations-27.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="287742f1c6cea6d9126670e9f031890b0462362a">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.0.1_f9f8edafc7c73c5285448eee5be43558b210c2c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alberto/.android/build-cache/2bb44f4b881903de94cca2ee6baf188b0198038f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8a80c9882b064f2943e10649a8d2b249f5bf176">
+        <dex dex="/Users/Alberto/dev/candidates/AlbertoGarridoDaWandaAndroidProgrammingTest/DaWandaLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de8c5dcaf4aab573ae0b6cc1de39a94dccd34cec/classes.dex" />
+    </item>
+
+</items>

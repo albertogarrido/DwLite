@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#cc1212</color>
+    <color name="colorAccent">#ff543d</color>
+    <color name="colorPrimaryDark">#930000</color>
+
+    <color name="colorTextDark">#3b3938</color>
+    <color name="colorPrimaryText">#ffffff</color>
+
+    <color name="colorPrimary35">#59cc1212</color>
+    <color name="cardOverlay35">#59b89e78</color>
+
+    <color name="background">#eae2d1</color>
+
+    <color name="colorBadgeNew">#009933</color>
+    <color name="colorBadgeExpress">#f5a500</color>
+
+    <color name="colorPrimarySemiTransparentToolbar">#26930000</color>
+    <color name="colorPrimarySemiTransparentStatusBar">#80930000</color>
+
+</resources>
